@@ -1,6 +1,6 @@
 <?php
 
-$args = $argv[1]; // l=live, c=completed, u=upcoming, nothing=live
+$args = (count($argv) > 1) ? $argv[1] : null; // l=live, c=completed, u=upcoming, nothing=live
 if (empty($args)) $args = "l";
 
 // Call URL
