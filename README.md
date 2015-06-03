@@ -16,30 +16,30 @@ Call this PHP script to see live, complete or upcoming Roland Garros 2015 result
 
 ## Example
 ```
-> php rgr.php c
+> php rgr.php l
 
-COMPLETED:
-Philippe-Chatrier - Men's Singles - Quarterfinals - Day 15
-K.Nishikori (JPN) 1 4 6 6 3
-Jw.Tsonga (FRA) 6 6 4 3 6  Wins
+LIVE:
+Philippe-Chatrier - Men's Singles - Quarterfinals - Day 16
+N.Djokovic (SRB) 4
+R.Nadal (ESP) 3
 
-Philippe-Chatrier - Women's Singles - Quarterfinals - Day 15
-A.Ivanovic (SRB) 6 6     Wins
-E.Svitolina (UKR) 3 2
+Suzanne-Lenglen - Men's Singles - Quarterfinals - Day 16
+A.Murray (GBR) 1
+D.Ferrer (ESP) 0
 
-Suzanne-Lenglen - Men's Singles - Quarterfinals - Day 15
-S.Wawrinka (SUI) 6 6 7    Wins
-R.Federer (SUI) 4 3 6
+Court 1 - Women's Doubles - Quarterfinals - Day 16
+Sw.Hsieh (TPE) / F.Pennetta (ITA) 5 6 4
+A.Hlavackova (CZE) / L.Hradecka (CZE) 7 3 4
 
-Suzanne-Lenglen - Women's Singles - Quarterfinals - Day 15
-G.Muguruza (ESP) 6 3
-L.Safarova (CZE) 7 6     Wins
+Court 8 - Girls'Doubles - Round 2 - Day 16
+Um.Arconada (USA) / N.Podoroska (ARG) 1
+Bv.Andreescu (CAN) / O.Pervushina (RUS) 2
 
-Court 1 - Mixed Doubles - Quarterfinals - Day 15
-A.Rodionova (AUS) / Auh.Qureshi (PAK) 0 6
-B.Mattek-Sands (USA) / M.Bryan (USA) 6 7     Wins
+Court 10 - Boys'Doubles - Round 2 - Day 16
+F.Capalbo (ARG) / G.Espin Busleiman (ARG) 0
+V.Durasovic (NOR) / P.Niklas-Salminen (FIN) 0
 
-Court 1 - Men's Doubles - Quarterfinals - Day 15
-Jj.Rojer (NED) / H.Tecau (ROU) 6 6     Wins
-V.Pospisil (CAN) / J.Sock (USA) 3 3
+Court 14 - Girls'Singles - Round 3 - Day 16
+K.Stewart (USA) 6 5 2
+A.Blinkova (RUS) 1 7 0
 ```
