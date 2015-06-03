@@ -1,6 +1,6 @@
 # rollandgarros
 
-Call this PHP script to see live, complete or upcoming Roland Garros 2015 results.
+Call this PHP script to see live, complete or upcoming Roland Garros 2015 results in command line
 
 ## Requirements
 PHP
