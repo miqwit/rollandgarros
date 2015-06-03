@@ -3,19 +3,16 @@
 Call this PHP script to see live, complete or upcoming Roland Garros 2015 results in command line
 
 ## Requirements
-PHP
-Curl
+* PHP
+* Curl
 
 ## Usage
 ```php rgr.php [l][c][u]```
 
-no parameters=live only
-
-l=live results
-
-c=completed matches results
-
-u=upcoming matches
+* no parameters=live only
+* l=live results
+* c=completed matches results
+* u=upcoming matches
 
 ## Example
 ```
